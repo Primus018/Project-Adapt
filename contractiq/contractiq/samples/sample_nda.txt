@@ -1,0 +1,17 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is effective as of 15 January 2026 between Horizon Analytics LLP ("Disclosing Party") and Cascade Softworks Pvt Ltd ("Receiving Party").
+
+1. Purpose. The parties wish to explore a potential collaboration on an NLP research platform and may share Confidential Information.
+
+2. Definition. "Confidential Information" means all non-public technical, business, and financial information disclosed in writing or orally and marked confidential, including model weights, evaluation scripts, and customer lists.
+
+3. Obligations. Receiving Party shall (a) use Confidential Information only for the Purpose, (b) restrict access to employees with a need to know, and (c) protect it with at least the same care used for its own confidential data, and no less than reasonable care.
+
+4. Exclusions. Obligations do not apply to information that is publicly available, independently developed, or rightfully received from a third party without restriction.
+
+5. Term. Confidentiality obligations survive for five (5) years from disclosure. Trade secrets remain protected for so long as they qualify as trade secrets.
+
+6. Return. Upon written request, Receiving Party shall return or securely destroy Confidential Information within fourteen (14) days and certify destruction.
+
+7. Governing Law. This Agreement is governed by the laws of India. Exclusive jurisdiction lies with the courts of Bengaluru.
